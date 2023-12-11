@@ -1,8 +1,8 @@
 /* Import, Install, etc. Open Props */
 @import "https://unpkg.com/open-props";
 /* Import of Google Fonts */
-@import url('https://fonts.googleapis.com/css2?family=Bayon&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Londrina+Sketch&display=swap');
 
 img {
   display: block;
@@ -15,7 +15,7 @@ body {
  background-image: linear-gradient(to top, black, var(--gray-8)), var(--noise-1);
  filter: var(--noise-filter-1);
   height: 300vh;
-  font-family: 'Poppins', sans-serif;
+  font-family: 'Cabin Sketch', sans-serif;
 }
 
 /* Main Container */
@@ -46,7 +46,7 @@ h1:hover {
 }
 
 h1 a {
-  font-family: 'Bayon', sans-serif;
+ font-family: 'Londrina Sketch', sans-serif;
   color: white;
   text-decoration: none;
 }
